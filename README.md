@@ -1,4 +1,4 @@
-InformaticaGraficaUGR
+Informática Gráfica UGR
 
 *****************************************************************								
 	Realizado por Santiago Vidal Martínez									
