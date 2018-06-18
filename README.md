@@ -12,7 +12,7 @@ Luego podrá mostrarse en diferentes modos de dibujo:
 
 	- Modo puntos (tecla P)
 	- Modo lineas (tecla L)
-	- Modo sÃ³lido (tecla S)
+	- Modo sólido (tecla S)
 	- Modo ajedrez (tecla A)
 
 Para rotar la figura, se podrán utilizar las teclas arriba, abajo, derecha e izquierda.
